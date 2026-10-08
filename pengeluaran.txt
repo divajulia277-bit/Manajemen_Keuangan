@@ -1,0 +1,2 @@
+id;nama;nominal;kategori
+1;makan;20000.0;makan

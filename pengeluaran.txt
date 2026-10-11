@@ -1,2 +1,4 @@
 id;nama;nominal;kategori
 1;makan;20000.0;makan
+2;2000000;20000.0;MAKAM
+3;MAKAN GACOAN;320000.0;MAKAN

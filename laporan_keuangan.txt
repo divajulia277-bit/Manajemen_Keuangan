@@ -1,10 +1,12 @@
 ========================================
     LAPORAN MANAJEMEN KEUANGAN
 ========================================
-Total Transaksi   : 1
-Total Pengeluaran : Rp 20,000.00
-Rata-rata/Item    : Rp 20,000.00
+Total Transaksi   : 3
+Total Pengeluaran : Rp 360,000.00
+Rata-rata/Item    : Rp 120,000.00
 
---- Rincian Transaksi (Terbesar) ---
+--- Rincian Transaksi ---
+[MAKAN] MAKAN GACOAN - Rp 320,000.00
 [makan] makan - Rp 20,000.00
+[MAKAM] 2000000 - Rp 20,000.00
 ========================================
